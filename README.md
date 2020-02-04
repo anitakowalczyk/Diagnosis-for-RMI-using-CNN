@@ -24,14 +24,13 @@ Four types of CNN model created to detect general abnormalities and specific dia
 * Matplotlib
 
 ## Screenshots
-<img src="https://github.com/anitakowalczyk/Diagnosis-for-RMI-using-CNN/tree/master/images/seq3models.png" height="100">
+![test image size](./images/seq3models.png)
+![test image size](./images/basic-06-3.png)
 
-![test image size](./images/basic-06-3.png?v=4&s=200)
-
-![test image size](./images/distBiasReLU.png?v=4&s=200)
-![test image size](./images/distGradReLU.png){:height="50%" width="50%"}
-![test image size](./images/distWeightReLU.png){:height="50%" width="50%"}
-![screenshot](./images/histBiasReLU.png){:height="50%" width="50%"}
+![test image size](./images/distBiasReLU.png)
+![test image size](./images/distGradReLU.png)
+![test image size](./images/distWeightReLU.png)
+![screenshot](./images/histBiasReLU.png)
 ![screenshot](./images/histGradReLU.png)
 ![screenshot](./images/histWeightReLU.png)
 
