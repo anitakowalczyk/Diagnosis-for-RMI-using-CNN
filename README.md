@@ -25,14 +25,14 @@ Four types of CNN model created to detect general abnormalities and specific dia
 
 ## Screenshots
 
-![screenshot](./images/seq3models.png)
+![screenshot](./images/seq3models.png){:height="50%" width="50%"}
 
-![screenshot](./images/basic-06-3.png)
+![screenshot](./images/basic-06-3.png){:height="50%" width="50%"}
 
-![screenshot](./images/distBiasReLU.png)
-![screenshot](./images/distGradReLU.png)
-![screenshot](./images/distWeightReLU.png)
-![screenshot](./images/histBiasReLU.png)
+![screenshot](./images/distBiasReLU.png){:height="50%" width="50%"}
+![screenshot](./images/distGradReLU.png){:height="50%" width="50%"}
+![screenshot](./images/distWeightReLU.png){:height="50%" width="50%"}
+![screenshot](./images/histBiasReLU.png){:height="50%" width="50%"}
 ![screenshot](./images/histGradReLU.png)
 ![screenshot](./images/histWeightReLU.png)
 
