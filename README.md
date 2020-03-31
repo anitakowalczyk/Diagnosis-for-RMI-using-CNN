@@ -24,8 +24,8 @@ Four types of CNN model created to detect general abnormalities and specific dia
 * Matplotlib
 
 ## Screenshots
-![test image size](./images/seq3models.png)
-![test image size](./images/basic-06-3.png)
+![test image size](./images/seq3models.png)<!-- .element height="50%" width="50%" -->
+![test image size](./images/basic-06-3.png)<!-- .element height="50%" width="50%" -->
 
 ![test image size](./images/distBiasReLU.png)
 ![test image size](./images/distGradReLU.png)
