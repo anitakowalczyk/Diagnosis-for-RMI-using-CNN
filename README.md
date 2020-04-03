@@ -24,28 +24,54 @@ Four types of CNN model created to detect general abnormalities and specific dia
 * Matplotlib
 
 ## Screenshots
-![test image size](./images/seq3models.png) <!-- .element height="20%" width="20%" -->
-![test image size](./images/basic-06-3.png) <!-- .element height="20%" width="20%" -->
+<div>
+  <p align="center">
+    <img src="./images/seq3models.png" height="50%" width="auto">
+  </p>
+</div>
 
-![test image size](./images/distBiasReLU.png)
-![test image size](./images/distGradReLU.png)
-![test image size](./images/distWeightReLU.png)
-![screenshot](./images/histBiasReLU.png)
-![screenshot](./images/histGradReLU.png)
-![screenshot](./images/histWeightReLU.png)
+<div>
+  <img height="50%" width="50%" src="./images/basic-06-3.png">
+</div>
 
-![screenshot](./images/relu-05-3.png)
-![screenshot](./images/relu-06-3.png)
+<div style="display: flex;">
+  <img height="50%" width="50%" src="./images/relu-05-3.png">
+  <img height="50%" width="50%" src="./images/relu-06-3.png">
+ </div>
+<div style="display: flex;">
+  <img height="50%" width="50%" src="./images/distBiasReLU.png">
+  <img height="50%" width="50%" src="./images/distGradReLU.png">
+  <img height="50%" width="50%" src="./images/distWeightReLU.png">
+ </div>
+ <div style="display: flex;">
+  <img height="50%" width="50%" src="./images/histBiasReLU.png">
+  <img height="50%" width="50%" src="./images/histGradReLU.png">
+  <img height="50%" width="50% "src="./images/histWeightReLU.png">
+</div>
 
-![screenshot](./images/distBiasLeaky.png)
-![screenshot](./images/distGradLeaky.png)
-![screenshot](./images/histBiasLeaky.png)
-![screenshot](./images/distWeightLeaky.png)
-![screenshot](./images/histGradLeaky.png)
-[screenshot](./images/histWeightLeaky.png)
+<div style="display: flex;">
+  <img height="50%" width="50%" src="./images/leaky-05-3.png">
+  <img height="50%" width="50%" src="./images/leaky-06-1.png">
+ </div>
+<div style="display: flex;">
+  <img height="50%" width="50%" src="./images/distBiasLeaky.png">
+  <img height="50%" width="50%" src="./images/distGradLeaky.png">
+  <img height="50%" width="50%" src="./images/distWeightLeaky.png">
+ </div>
+ <div style="display: flex;">
+  <img height="50%" width="50%" src="./images/histBiasLeaky.png">
+  <img height="50%" width="50%" src="./images/histGradLeaky.png">
+  <img height="50%" width="50% "src="./images/histWeightLeaky.png">
+</div>
 
-![screenshot](./images/leaky-05-3.png)
-![screenshot](./images/leaky-06-1.png)
 
-![screenshot](./images/trainACCepoch.png)
-![screenshot](./images/trainLOSScomp.png)
+<div>
+  <p align="center">
+    <img src="./images/trainACCepoch.png" height="50%">
+  </p>
+</div>
+<div>
+  <p align="center">
+    <img src="./images/trainLOSScomp.png" height="50%">
+  </p>
+</div>
