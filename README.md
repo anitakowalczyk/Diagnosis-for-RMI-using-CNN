@@ -1,12 +1,5 @@
 # Diagnosis for knee magnetic resonance imaging using deep convolutional neural network based on MRNet dataset
 
-
-
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Screenshots](#screenshots)
-
 ## General info
 Four types of CNN model created to detect general abnormalities and specific diagnoses (anterior cruciate ligament tears and meniscal tears) on knee MRI exams published by Stanford ML Group.
 
@@ -22,8 +15,6 @@ Four types of CNN model created to detect general abnormalities and specific dia
 * Pandas
 * Scikit-learn
 * Matplotlib
-
-## Screenshots
 
 <h2>Models layers</h2>
 <div style="margin-top: 30px">
