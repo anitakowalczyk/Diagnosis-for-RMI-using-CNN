@@ -75,7 +75,7 @@ Four types of CNN model created to detect general abnormalities and specific dia
 
 <h2>Models accuracy and loss</h2>
 <p align="center" style="margin-top: 300px;">
-  <img style="display: inline-block;" src="./images/trainACCepoch.png" height="50%" width="50%" >
-  <img style="display: inline-block;" src="./images/trainLOSScomp.png" height="50%" width="50%">
+  <img style="display: inline-block;" src="./images/trainACCepoch.png" height="45%" width="45%" >
+  <img style="display: inline-block;" src="./images/trainLOSScomp.png" height="45%" width="45%">
 </p>
 
